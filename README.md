@@ -56,7 +56,7 @@ pip install pyaudio torchaudio transformers scikit-learn word2number scipy numpy
 2. **Open the Google Colab Notebook**:
    Click the button below to open the project notebook in Google Colab:
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QDZ-8GcnpFIO5URkojgRzqjSOUoI3LnW?usp=sharing)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1P24iMF6WaomwNw9tCxfrBAta4iLzngrO?usp=sharing)
 
 3. **Run the Cells**:
    Execute the cells in order to set up the environment, train the model, and process audio.
